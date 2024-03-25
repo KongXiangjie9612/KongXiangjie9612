@@ -9,12 +9,12 @@
 <tr>
 <td>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhz0328&show_icons=true&theme=radical\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KongXiangjie9612&show_icons=true&theme=radical\&rank_icon=github)
 
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhz0328&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KongXiangjie9612&layout=compact)]()
 
 </td>
 </tr>
