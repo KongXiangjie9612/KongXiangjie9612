@@ -1,4 +1,27 @@
-### Hi there 👋
+### 欢迎来到我的主页 👋
+- **机器人技术与系统理论爱好者**
+- **研究方向** ：非线性系统与控制，自适应鲁棒控制，协作机器人的柔顺控制，完整约束与非完整约束系统
+- **blibli频道** ：[bilibili-若鱼君](https://space.bilibili.com/206160887?spm_id_from=333.1007.0.0)
+- **e-mail** ：kongxiangjie9612@163.com
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhz0328&show_icons=true&theme=radical\&rank_icon=github)
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhz0328&layout=compact)]()
+
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 <!--
 **KongXiangjie9612/KongXiangjie9612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
