@@ -3,7 +3,7 @@
 - **研究方向** ：非线性系统与控制，自适应鲁棒控制，柔顺控制，完整约束与非完整约束系统，基于强化学习的控制
 - **近期工作** ：WBC，Hierarchy multi-task control
 - **blibli频道** ：[bilibili-若鱼君](https://space.bilibili.com/206160887?spm_id_from=333.1007.0.0)
-- **e-mail** ：2263241667@qq.com..
+- **e-mail** ：22632+41667-qq.com..
 
 <div align="center">
 <table>
